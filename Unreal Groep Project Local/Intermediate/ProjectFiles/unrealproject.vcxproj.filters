@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\unrealproject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C32C64B1-214B-411B-BEFF-A8F91EC30A2A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\unrealproject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\unrealprojectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{70379711-F359-4D69-88AD-A43BF0084794}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\unrealproject">
+      <UniqueIdentifier>{624E7C32-7682-4F37-B69C-F5A2FCF188C3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\unrealproject\BTService_CheckForPlayer.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\BTService_CheckForPlayer.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\BTTask_MoveToPlayer.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\BTTask_MoveToPlayer.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\CampFire.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\CampFire.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\EnemyAI.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\EnemyAI.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\EnemyCharacter.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\EnemyCharacter.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\FPSCharacter.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\FPSCharacter.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\KeyCard.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\KeyCard.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\Lock.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\Lock.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\MedKit.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\MedKit.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\RotatingActor.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\RotatingActor.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\UnrealGameHUD.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\UnrealGameHUD.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\unrealproject\unrealproject.Build.cs">
+      <Filter>Source\unrealproject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\unrealproject\unrealproject.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\unrealproject.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\unrealproject\unrealprojectGameModeBase.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\unrealproject\unrealprojectGameModeBase.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\unrealproject\BaseWeapon.h">
+      <Filter>Source\unrealproject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\unrealproject\BaseWeapon.cpp">
+      <Filter>Source\unrealproject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

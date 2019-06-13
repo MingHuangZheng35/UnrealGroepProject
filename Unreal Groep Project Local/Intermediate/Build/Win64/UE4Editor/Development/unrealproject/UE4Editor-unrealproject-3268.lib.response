@@ -1,0 +1,39 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-unrealproject-3268.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\unrealprojectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\BTService_CheckForPlayer.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\BTTask_MoveToPlayer.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\CampFire.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\EnemyAI.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\EnemyCharacter.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\FPSCharacter.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\KeyCard.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\Lock.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\MedKit.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\RotatingActor.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\UnrealGameHUD.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\unrealproject.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\unrealprojectGameModeBase.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\unrealprojectHUD.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\BTService_CheckForPlayer.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\BTTask_MoveToPlayer.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\CampFire.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\EnemyAI.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\EnemyCharacter.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\FPSCharacter.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\KeyCard.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\Lock.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\MedKit.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\RotatingActor.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\UnrealGameHUD.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\unrealproject.init.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\unrealprojectGameModeBase.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\unrealprojectHUD.gen.cpp.obj"
+"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\PCLaunch.rc.res"
+/OUT:"D:\SchoolProject\Unreal Groep Project\unrealproject\Intermediate\Build\Win64\UE4Editor\Development\unrealproject\UE4Editor-unrealproject-3268.lib"
